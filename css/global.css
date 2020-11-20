@@ -1,0 +1,29 @@
+.bg-dark-color{
+  background-color: #093a8e;
+}
+.bg-light-color{
+  background-color: #5367fc;
+}
+#navbar ul li a.active{
+  color: #000;
+  border-radius: 5px;
+  background-color: #fff;
+
+}
+#navbar ul li a{
+  font-weight: bold;
+  margin-left: 5px;
+  padding: 0.8rem;
+  height: auto;
+  border-radius: 5px;
+}
+#navbar ul li a:hover{
+  background-color: #fff;
+  color: #000;
+  border-radius: 5px ;
+}
+
+a{
+  text-decoration: none;
+  color: #fff;
+}
